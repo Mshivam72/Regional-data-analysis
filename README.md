@@ -1,4 +1,4 @@
-**USA Regional Sales Analysis**
+**Regional Sales Analysis**
 
 **Project Overview:-**
 
